@@ -1,0 +1,1 @@
+SELECT * FROM blog_php.articulos;
